@@ -1,0 +1,127 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PrBx8/1.0.0": {
+        "dependencies": {
+          "xunit": "2.7.1"
+        },
+        "runtime": {
+          "PrBx8.dll": {}
+        }
+      },
+      "xunit/2.7.1": {
+        "dependencies": {
+          "xunit.analyzers": "1.12.0",
+          "xunit.assert": "2.7.1",
+          "xunit.core": "2.7.1"
+        }
+      },
+      "xunit.abstractions/2.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/xunit.abstractions.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      },
+      "xunit.analyzers/1.12.0": {},
+      "xunit.assert/2.7.1": {
+        "runtime": {
+          "lib/net6.0/xunit.assert.dll": {
+            "assemblyVersion": "2.7.1.0",
+            "fileVersion": "2.7.1.0"
+          }
+        }
+      },
+      "xunit.core/2.7.1": {
+        "dependencies": {
+          "xunit.extensibility.core": "2.7.1",
+          "xunit.extensibility.execution": "2.7.1"
+        }
+      },
+      "xunit.extensibility.core/2.7.1": {
+        "dependencies": {
+          "xunit.abstractions": "2.0.3"
+        },
+        "runtime": {
+          "lib/netstandard1.1/xunit.core.dll": {
+            "assemblyVersion": "2.7.1.0",
+            "fileVersion": "2.7.1.0"
+          }
+        }
+      },
+      "xunit.extensibility.execution/2.7.1": {
+        "dependencies": {
+          "xunit.extensibility.core": "2.7.1"
+        },
+        "runtime": {
+          "lib/netstandard1.1/xunit.execution.dotnet.dll": {
+            "assemblyVersion": "2.7.1.0",
+            "fileVersion": "2.7.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PrBx8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "xunit/2.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9o050yCLzPvHxbrAkaHnI1j+YfPvRw+/ncvKbTfzIhO4JvQA0rPgoICJxXHMkscfgXmLFwZ8107ehnMUVzE23A==",
+      "path": "xunit/2.7.1",
+      "hashPath": "xunit.2.7.1.nupkg.sha512"
+    },
+    "xunit.abstractions/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pot1I4YOxlWjIb5jmwvvQNbTrZ3lJQ+jUGkGjWE3hEFM0l5gOnBWS+H3qsex68s5cO52g+44vpGzhAt+42vwKg==",
+      "path": "xunit.abstractions/2.0.3",
+      "hashPath": "xunit.abstractions.2.0.3.nupkg.sha512"
+    },
+    "xunit.analyzers/1.12.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-w23LH3aXade2WXKvXi0oA/uV15fpgUMjsPq1x91iQckzgWApgAiijNHmfFQtqNPm41wfrdbRl7nSJRd0yux/dw==",
+      "path": "xunit.analyzers/1.12.0",
+      "hashPath": "xunit.analyzers.1.12.0.nupkg.sha512"
+    },
+    "xunit.assert/2.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-JqvXS4yX+PtJn5BuqoKkYav7I0g4nXcxRbGTomDwVQjFccOdyfYKpuPOHX/DqrPCcL+MIHrGVdP3bveUXlvdnA==",
+      "path": "xunit.assert/2.7.1",
+      "hashPath": "xunit.assert.2.7.1.nupkg.sha512"
+    },
+    "xunit.core/2.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-hcODgS+RXdjmXq0zQzmRbERQgY+bAGGx1bdH3370t/8CTGmIEU2qAc1dQAjIRpARsacR0cj6LLJDUF5BNQNKTQ==",
+      "path": "xunit.core/2.7.1",
+      "hashPath": "xunit.core.2.7.1.nupkg.sha512"
+    },
+    "xunit.extensibility.core/2.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-yLX4XlBFkvNYCzf+DEzlNk45KsSlu9W93IJHBmtUP96qZ9XyRYDFlwMj6BCcOhDKVNrZxSM8bqu4F/Qud4ehxA==",
+      "path": "xunit.extensibility.core/2.7.1",
+      "hashPath": "xunit.extensibility.core.2.7.1.nupkg.sha512"
+    },
+    "xunit.extensibility.execution/2.7.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ei3dKF8agj4UKkJ6KkaZ5/Gcif3if6hBsyzegIQJonZDSKZFvb0AyKtyOhDfggBaXVL5iXZExITdRkfjC95yhw==",
+      "path": "xunit.extensibility.execution/2.7.1",
+      "hashPath": "xunit.extensibility.execution.2.7.1.nupkg.sha512"
+    }
+  }
+}

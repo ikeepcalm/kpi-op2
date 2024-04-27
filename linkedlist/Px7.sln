@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortList", "ShortList\ShortList.csproj", "{AA36BB50-F682-4B10-A1B7-64EDCD31FE3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntryPoint", "EntryPoint\EntryPoint.csproj", "{6304C1E1-267C-42D3-B052-4102F726DD7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AA36BB50-F682-4B10-A1B7-64EDCD31FE3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA36BB50-F682-4B10-A1B7-64EDCD31FE3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA36BB50-F682-4B10-A1B7-64EDCD31FE3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA36BB50-F682-4B10-A1B7-64EDCD31FE3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6304C1E1-267C-42D3-B052-4102F726DD7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6304C1E1-267C-42D3-B052-4102F726DD7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6304C1E1-267C-42D3-B052-4102F726DD7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6304C1E1-267C-42D3-B052-4102F726DD7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+D:\Study\RiderProjects\ShortQueue\bin\Debug\net8.0\ShortQueue.exe
+D:\Study\RiderProjects\ShortQueue\bin\Debug\net8.0\ShortQueue.deps.json
+D:\Study\RiderProjects\ShortQueue\bin\Debug\net8.0\ShortQueue.runtimeconfig.json
+D:\Study\RiderProjects\ShortQueue\bin\Debug\net8.0\ShortQueue.dll
+D:\Study\RiderProjects\ShortQueue\bin\Debug\net8.0\ShortQueue.pdb
+D:\Study\RiderProjects\ShortQueue\obj\Debug\net8.0\ShortQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\RiderProjects\ShortQueue\obj\Debug\net8.0\ShortQueue.AssemblyInfoInputs.cache
+D:\Study\RiderProjects\ShortQueue\obj\Debug\net8.0\ShortQueue.AssemblyInfo.cs
+D:\Study\RiderProjects\ShortQueue\obj\Debug\net8.0\ShortQueue.csproj.CoreCompileInputs.cache
+D:\Study\RiderProjects\ShortQueue\obj\Debug\net8.0\ShortQueue.dll
+D:\Study\RiderProjects\ShortQueue\obj\Debug\net8.0\refint\ShortQueue.dll
+D:\Study\RiderProjects\ShortQueue\obj\Debug\net8.0\ShortQueue.pdb
+D:\Study\RiderProjects\ShortQueue\obj\Debug\net8.0\ShortQueue.genruntimeconfig.cache
+D:\Study\RiderProjects\ShortQueue\obj\Debug\net8.0\ref\ShortQueue.dll

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EntryPoint/1.0.0": {
+        "dependencies": {
+          "ShortList": "1.0.0"
+        },
+        "runtime": {
+          "EntryPoint.dll": {}
+        }
+      },
+      "ShortList/1.0.0": {
+        "runtime": {
+          "ShortList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntryPoint/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShortList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

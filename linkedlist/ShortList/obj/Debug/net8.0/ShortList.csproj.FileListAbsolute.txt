@@ -1,0 +1,11 @@
+D:\Study\RiderProjects\ShortQueue\ShortList\obj\Debug\net8.0\ShortList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\RiderProjects\ShortQueue\ShortList\obj\Debug\net8.0\ShortList.AssemblyInfoInputs.cache
+D:\Study\RiderProjects\ShortQueue\ShortList\obj\Debug\net8.0\ShortList.AssemblyInfo.cs
+D:\Study\RiderProjects\ShortQueue\ShortList\obj\Debug\net8.0\ShortList.csproj.CoreCompileInputs.cache
+D:\Study\RiderProjects\ShortQueue\ShortList\bin\Debug\net8.0\ShortList.deps.json
+D:\Study\RiderProjects\ShortQueue\ShortList\bin\Debug\net8.0\ShortList.dll
+D:\Study\RiderProjects\ShortQueue\ShortList\bin\Debug\net8.0\ShortList.pdb
+D:\Study\RiderProjects\ShortQueue\ShortList\obj\Debug\net8.0\ShortList.dll
+D:\Study\RiderProjects\ShortQueue\ShortList\obj\Debug\net8.0\refint\ShortList.dll
+D:\Study\RiderProjects\ShortQueue\ShortList\obj\Debug\net8.0\ShortList.pdb
+D:\Study\RiderProjects\ShortQueue\ShortList\obj\Debug\net8.0\ref\ShortList.dll
